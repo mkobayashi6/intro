@@ -1,5 +1,5 @@
 # 小林 雅統 (こばやし まさのり)
-- [mail: ](mailto:mkobayashi6@vivaldi.net)
+- mail: [mkobayashi6@vivaldi.net](mailto:mkobayashi6@vivaldi.net)
 - [GitHub](https://github.com/mkobayashi6)
     - 制作物追加予定
 - [Facebook](https://ja-jp.facebook.com/people/%E5%B0%8F%E6%9E%97%E9%9B%85%E7%B5%B1/100009338638527)
