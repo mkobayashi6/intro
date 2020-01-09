@@ -38,6 +38,7 @@
         好き嫌い
     </summary>
 
+<pre>
 - 好きなこと
   - 効率化・改善
   - スキルの高い人
@@ -85,6 +86,7 @@
   - ときど
   - Justin Wong
   - Ceros
+</pre>
 </details>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
