@@ -39,6 +39,8 @@
     </summary>
     <div>
 
+<pre>
+<code>
 - 好きなこと
   - 効率化・改善
   - スキルの高い人
@@ -86,6 +88,8 @@
   - ときど
   - Justin Wong
   - Ceros
+</code>
+</pre>
 </div></details>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
