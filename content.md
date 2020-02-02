@@ -139,7 +139,7 @@
   <li> マイティ・モー </li>
   <li> バダ・ハリ </li>
   <li> 錦織圭 </li>
-  <li> ときど </li>
+  <li> まちゃぼー </li>
   <li> Justin Wong </li>
   <li> Ceros </li>
   </ul>
