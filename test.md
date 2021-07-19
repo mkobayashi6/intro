@@ -15,7 +15,6 @@
 	function(err) {
          console.log("The following error occurred: " + err.name);
       });
-		console.log(promise);
    }
 </script>
 
