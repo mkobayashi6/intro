@@ -4,7 +4,7 @@
 		console.log(promise);
    }
 	function button2Click(){
-    navigator.getUserMedia(video: true, audio: false,
+    navigator.getUserMedia({video: true, audio: false},
 	function(stream) {
          var video = document.querySelector('video');
          video.srcObject = stream;
