@@ -1,6 +1,6 @@
 <script>
 	function buttonClick(){
-    var promise = navigator.mediaDevices.getUserMedia({ audio: true, video: true });
+    var promise = navigator.mediaDevices.getUserMedia({ audio: false, video: true });
 	        window.alert("button 1");
 		console.log(promise);
    }
@@ -15,6 +15,7 @@
          };
       },
 	function(err) {
+	 window.alert("button2 not worked");
          console.log("The following error occurred: " + err.name);
       });
    }
