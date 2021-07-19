@@ -16,7 +16,7 @@
       },
 	function(err) {
 	 window.alert("button2 not worked");
-         console.log("The following error occurred: " + err.name);
+         window.alert("The following error occurred: " + err.name);
       });
    }
 </script>
