@@ -1,2 +1,9 @@
+<script>
+	function buttonClick(){
+    var promise = navigator.mediaDevices.getUserMedia({ audio: true, video: true });
+		console.log(promise);
+   }
+</script>
+
 <h> test </h>
-<button type="button"> launch camera </button>
+<input type="button" value="button" onclick="buttonClick()">
